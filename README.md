@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 ChurnShield AI
 
-# Run and deploy your AI Studio app
+AI-powered customer churn prediction system with real-time dashboard.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1vIvKCr-QhQMZsxLm79_E458gHvm6UQ3g
+## 📌 Features
+- Upload dataset (CSV/XLSX)
+- Automatic schema detection
+- Real ML model training (Random Forest)
+- Live dashboard insights
+- Customer risk prediction (Low / Medium / High)
+- Retention strategies
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠 Tech Stack
+- Frontend: React + Vite + TypeScript
+- Backend: FastAPI
+- ML: Scikit-learn, Pandas, NumPy
+- Charts: Recharts
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 Purpose
+Predict customer churn and help businesses take proactive retention actions.
+
+---
+
+## 📸 Dashboard Preview
+![alt text](image-3.png)
