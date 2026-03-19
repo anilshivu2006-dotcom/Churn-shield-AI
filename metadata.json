@@ -1,0 +1,5 @@
+{
+  "name": "ChurnShield AI",
+  "description": "A high-performance churn prediction and retention platform with a Netflix-style dark UI.",
+  "requestFramePermissions": []
+}
